@@ -1,0 +1,1 @@
+java -classpath ./dist/lib/MyProject-20200924.jar alfa.Application
